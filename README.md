@@ -1,4 +1,4 @@
 Integrantes:
-Alvaro Ducuera
+Alvaro Ducuara
 Dehyro Mendez
 Camilo Díaz
